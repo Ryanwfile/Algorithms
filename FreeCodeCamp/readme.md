@@ -1,1 +1,1 @@
-These algorithms follow the curriculum of Free Code Camp's algorithm exercises
+## These are my solutions to Free Code Camp's algorithm exercises
