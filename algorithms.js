@@ -7,7 +7,7 @@ function reverseString(str){
   return newStr;
 }
 
-console.log(reverseString("batcountry"));
+console.log(reverseString("a string of characters"));
 ************************************************************************************************************************************************************************************************************************
 Sum all Integers in an array
 
