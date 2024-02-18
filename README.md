@@ -1,3 +1,3 @@
 # Algorithms
 
-## These are my solutions to various algorithms
+## These were my solutions to various algorithms while learning Javascript circa 2015
